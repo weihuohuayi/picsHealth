@@ -1,1 +1,1 @@
-call github.bat 
+'call github.bat 
