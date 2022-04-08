@@ -1,2 +1,11 @@
 
 E:\Program Files (x86)\Jenkins\workspace\githubNightDelpipeline>git commit -a -m "empty image commit"  
+[main ce66760] empty image commit
+ 3 files changed, 5 insertions(+)
+ create mode 100644 github.bat
+ delete mode 100644 image/20220409030303.jpg
+ create mode 100644 log.txt
+
+E:\Program Files (x86)\Jenkins\workspace\githubNightDelpipeline>git push -u origin HEAD:main  
+
+E:\Program Files (x86)\Jenkins\workspace\githubNightDelpipeline>touch aaa.md  
