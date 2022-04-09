@@ -1,4 +1,3 @@
 HealthPic
 upload
-.message
-1
+2
