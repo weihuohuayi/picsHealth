@@ -1,3 +1,3 @@
 HealthPic
 upload
-[0].message
+commits[0].message
