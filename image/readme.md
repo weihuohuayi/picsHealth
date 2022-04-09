@@ -1,1 +1,1 @@
-健康码图片
+HealthPic
